@@ -17,13 +17,15 @@ Make sure you have the following installed on your machine:
 2.Node.js
 3.npm (Node Package Manager)
 
-Installation
-
 1.Install the project dependencies using npm:
-
 
 npm install
 
 2.Running the Project
 
 npm run dev
+
+THE PROJECT IS DEPLOYED ON NETLIFY:
+https://gentle-stardust-3bb35a.netlify.app/
+
+HAVE A LOOK,ENJOY AND KEEP CODING!!
